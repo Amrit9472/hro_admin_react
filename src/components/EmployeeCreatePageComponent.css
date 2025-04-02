@@ -1,0 +1,19 @@
+/* ButtonStyles.css */
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .navigation-button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .navigation-button:hover {
+    background-color: #f0f0f0;
+  }
+  
