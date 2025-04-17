@@ -90,9 +90,7 @@ function LoginPage() {
               <button className="btn btn-danger" type="submit">Login</button>
             </div>
           </form>
-          {/* <div className="mt-20px">
-            <Link to="/reset-password" className="reset-password-link">Forgot Password?</Link>
-          </div> */}
+          
         </div>
       </div>
     </>
